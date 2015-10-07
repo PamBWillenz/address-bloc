@@ -41,7 +41,6 @@ class MenuController
       main_menu
     when 5
       system "clear"
-      puts "Enter the number of the entry"
       get_nth_entry
       main_menu
     when 6
